@@ -1,5 +1,4 @@
 ---
-My first open-source contribution!
 title: Document AI Analyst
 emoji: 🧠
 colorFrom: indigo
@@ -10,7 +9,7 @@ pinned: true
 license: mit
 short_description: Enterprise Agentic RAG — upload PDFs and chat with AI
 ---
-
+My first open-source contribution!
 <div align="center">
 
 <br/>
